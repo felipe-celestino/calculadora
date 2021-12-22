@@ -29,6 +29,7 @@
 	text-align: right;
 	margin: 5px;
 	padding-top: 15px;
+	overflow: hidden;
 }
 .botao {
 	width: 50px;
